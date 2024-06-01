@@ -113,7 +113,8 @@ server {
 
 Con esto hecho, si accedemos a [gitea.admichin.es](https://gitea.admichin.es) por primera vez, se abrirá la página de configuración:
 
-![configuracion1](es0cMvq.png)
+![configuracion1](es0cMvq.png){: .shadow }
+
 
 En esta configuración es importante poner el dominio (más abajo, no donde sale en la foto ya que esa es la configuración de la base de datos). Así como establecer la configuración de ssh y el nombre del sitio. Tras finalizar la configuración, o en la misma ya que es una opción, el primer usuario que se cree será el administrador. Con esto ya tendríamos gitea instalado y funcionando.
 
