@@ -165,7 +165,7 @@ Creamos la interfaz:
 sudo wg-quick up /etc/wireguard/wg0.conf
 ```
 
-![wgup2](http://i.imgur.com/hsQTSjy.png)
+![wgup2](https://i.imgur.com/hsQTSjy.png)
 
 Una vez hecho esto, tenemos que añadir la clave pública del cliente al fichero de configuración del **servidor**, añadiendo las siguentes líneas:
 

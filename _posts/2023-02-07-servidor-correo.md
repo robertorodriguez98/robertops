@@ -7,7 +7,7 @@ image:
   path: featured.png
 categories:
     - documentación
-    - Servicios de red e Internet
+    - Servicios de Red e Internet
 tags:
     - correo
     - autoalojado
