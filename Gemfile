@@ -4,6 +4,8 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 7.0", ">= 7.0.1"
 gem 'jekyll-compose', group: [:jekyll_plugins]
+gem "base64"
+gem "csv"
 
 
 group :test do
